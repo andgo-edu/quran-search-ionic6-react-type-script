@@ -1,5 +1,7 @@
 import {
   IonButton,
+  IonCard,
+  IonCardSubtitle,
   IonCol,
   IonContent,
   IonGrid,
@@ -74,6 +76,16 @@ const Search = () => {
 
         <IonGrid>
           <IonRow>
+            <IonCol size="12" class="ion-padding">
+              <IonItem>
+                <IonCard>
+                  <IonCardSubtitle>
+                    Made By Omar Abdelrahman.@2022
+                  </IonCardSubtitle>
+                </IonCard>
+              </IonItem>
+            </IonCol>
+
             <IonCol size="12" class="ion-padding">
               <IonItem>
                 <IonIcon icon={book} class="ion-center" />
