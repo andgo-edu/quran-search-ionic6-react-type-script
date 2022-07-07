@@ -1,9 +1,13 @@
+# Preview
+![Preview](https://res.cloudinary.com/dxgqvvg0z/image/upload/v1657191592/QuranIonicSearchApp/quran-app-ionic6-omarabdelrahman-preview_hlcm5x.gif)
 
 ## SearchApp 
 This app is just  a search Api for Quran 
 Thats allows the user to add input and search on an ionic application Check the demo down below
 
-[https://quran-ionic6-react-typescript-search-app.vercel.app/](demo)
+[Live Demo]([demo](https://quran-ionic6-react-typescript-search-app.vercel.app/))
+
+
 
 ### Requirememts 
 
