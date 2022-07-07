@@ -83,7 +83,7 @@ const stringDataDisplay = JSON.stringify([datasearched]);
 
 
 async function postSearchedAPIData(
-  url = `https://api.alquran.cloud/v1/search/${userinput}/all/en`
+  url = `https://api.nationalize.io?name=${userinput}`
  ) {
   const response = await fetch(url, {
     method: "GET",
